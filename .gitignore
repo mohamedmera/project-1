@@ -1,2 +1,1 @@
 main.html
-index.html
